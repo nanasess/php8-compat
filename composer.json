@@ -1,0 +1,19 @@
+{
+    "name": "nanasess/php8-compat",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kentaro Ohkouchi",
+            "email": "nanasess@fsm.ne.jp"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "lib/each.php"
+        ]
+    },
+    "require-dev": {
+        "php5friends/phpunit48": ">=4.8.42"
+    }
+}
