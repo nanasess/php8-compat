@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @require PHP 8.0
+ * @requires PHP 8.0
  */
 class EachTest extends PHPUnit_Framework_TestCase
 {
